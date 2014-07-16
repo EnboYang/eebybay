@@ -1,0 +1,40 @@
+# This file is used to record the uncertain trig of BATSE sample
+
+#trig           #Reason
+00480           the visual possible EE is very close to the initial spike
+00512           spike is narrow, possible ee is wide
+00906           looks like precursor, and have sample leve with spike
+00936           precursor
+01289           spike followed with a hard pulse and then a soft one
+02155           not very clear
+03078
+03113
+03152           contains three pulses
+03248
+03266           refer to 03152
+03294           uncertain
+03431
+04660           complex structure
+05339           complex structure, haven't finished at the end of data!!!!!*
+05469
+05471           looks like haven't finished
+05527           complex
+05533           complex
+05547           maybe not, a little complex
+05711           very like precursor
+06144           interesting
+06216           complex structure
+06343           have a hard precursor
+06436           contains three precursors
+06535           complex structure,!!!!
+06634           not sure precursor or not
+06697           a little complex
+06824           maybe precursor
+07133           complex structure, need cautious!!!
+07353           contains couple of pulse
+07753           not sure
+07793           complex,hist shows three pulses
+07813           maybe, but the spike are in same pulse with ee
+07912           need more detailed data
+08047           complex
+

@@ -1,0 +1,25 @@
+#this file is used to record odd lc in bayesian analysis
+#trig       #reason
+00809       failed bba
+00867       couple of pulse, very different
+00878       failed hist and bba
+02003       no specific reason, looks odd
+02103       a significant stop in spike
+02167       !!failed bba, redo this one!
+02201       need more data
+02273       need redo bba
+02288       failed both
+02312       rise fast,decay sharply, refer to 02003
+02353       redo bba
+02377       refer to 0867
+02860       refer to 02377,0867
+02910       redo bba
+02988       !!!!!******
+02995       refer to 02103
+06293       failed bba
+06307       failed bba
+06368       decay very quickly
+06788       do bba again
+07187       failed bba
+07922       failed bba
+08035       failed bba
